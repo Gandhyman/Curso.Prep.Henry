@@ -1,0 +1,11 @@
+for
+&&, ||, !
+
+for es la orden para hacer que algo se repita varias veces
+debemos decirle a la computadora tres cosas:
+en que numero empezar, hasta cuando terminar y
+en cuanto vamos a subir el valor
+
+&& sirve para decirle a la computadora que si dos condiciones se cumplen haga lo que le ordenamos
+|| sir ve para decirle que haga la orden si se cumple cualquier condicion o las dos
+! es el simbolo para decirle no a la computadora, es decir, que haga la accion si la condicion no es verdadera

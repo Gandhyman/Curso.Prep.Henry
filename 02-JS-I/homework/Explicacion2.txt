@@ -1,0 +1,10 @@
+Variables: son como cajitas donde puedes meter diferentes cosas. Estas cosas pueden ser numeros, letras, y otras.
+
+Strings: son cadenas formadas por letras, numeros y otros caracteres especiales deben inciar y terminar con ' o ",
+
+Funciones (argumentos, return): Las funciones sirven para agrupar varias ordenes, que hagan algo con los valores que les damos
+y despues devuelven un resultado.
+
+Declaraciones if: son para decirle a la computadora que si algo es cierto haga algo y si no es cierto no lo haga.
+
+Valores booleanos (true, false): Se usan para indicar si algo es cierto o falso.

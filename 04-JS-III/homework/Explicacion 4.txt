@@ -1,0 +1,2 @@
+Un array es un grupo de valores del mismo tipo. Por ejemplo un array de numeros, oo un array de cadenas, etc
+se delimitan por los caracteres [] (corchetes cuadrados)
